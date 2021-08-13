@@ -7,8 +7,15 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
+#### Get to know me
+--- 
+- 🔭 I’m currently working on my personal portfolio 
+- 🌱 I’m currently learning Javascript and React 
+- 🤔 I’m looking for help with Javascript  
+- 💬 Ask me about Anything ! 
+- ⚡ Fun fact: When I'm not coding, I create content on Tiktok, I read books 📖, I swim 🏊🏻‍♀️, I make coffee ☕️ 
 
-### Technologies I use
+#### Technologies I use
 ---  
 
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='HTML' height = '30'> <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' alt='CSS' height='30'> <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='Javascript' height='30'> <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' alt='React' height='30'>
@@ -16,7 +23,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 
-### My GitHub activity 
+#### My GitHub activity 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnblm)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,7 +31,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ![Profile views](https://gpvc.arturio.dev/imnblm)  
 
-### Where you can find me 
+#### Where you can find me 
 ---
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imeneboualami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/imeneboualami/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/imeneboualami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/imeneblmi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/imnblmi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg' alt='tiktok' height='40'>](imn_blmi) 
 
