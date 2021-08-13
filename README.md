@@ -1,7 +1,5 @@
 ### Hi there I'm Imene 👋
 
-<!--
-**imeneboualami/imeneboualami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I'm french but I've never had slugs or frog legs in my life 😨
 - 📹 If I'm not coding I'm ... creating content on TikTok, reading books or organizing surprise birthday parties for my friends 🎉
--->
+
