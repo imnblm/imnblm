@@ -1,5 +1,11 @@
 ### Hi there I'm Imene 👋
 
+<!-- Quick presentation about myself, what I do-->
+
+<!-- README STATS-->
+[![Imene's GitHub stats](https://github-readme-stats.vercel.app/api?username=imeneboualami)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 Here are some ideas to get you started:
 
