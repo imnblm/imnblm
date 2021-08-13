@@ -16,9 +16,9 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ### My GitHub activity 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imeneboualami)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnblm)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imeneboualami&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imnblm&show_icons=true) 
 
-![Profile views](https://gpvc.arturio.dev/imeneboualami)  
+![Profile views](https://gpvc.arturio.dev/imnblm)  
 
