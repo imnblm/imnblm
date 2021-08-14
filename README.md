@@ -1,11 +1,22 @@
-
+<img src='https://miro.medium.com/max/706/1*Zk-LFN8_AtzNqJGj0Q84Pw.png' width="600"/>
 
 ### Hi there 👋, my name is Imene.
-#### I am a young creative and enthousiastic web developer. 👩🏻‍💻
+####  👩🏻‍💻 I am a young creative and enthousiastic web developer.
+>I'm a french woman based in the UK. After I graduated with a BCs in computer science, I moved to the UK in order to skyrocket my carreer as a fresh and new web developer. 
 
-<img align="right" src='https://github.com/arsentieva/arsentieva/raw/main/code.gif?raw=true' width="400"/>
+#### 🚶🏻‍♀️ What I'm currently doing 
+>During my studies, I've mostly learnt about back-end development, working with Java and Java's frameworks such as JavaFx, Swing, etc. Althought I knew I loved programming, yet I didn't feel a strong connection between me and back-end development. So I took some time to figure out what I trully love in programming. By that time, I found myself a secure job as a barista so I could reach English fluency, get to meet loads of interesting people and improve my soft skills such as : </br>
+> * communication
+> * accountability
+> * empathy
+> * teamwork
+> * problem solving
+> * resilience
+> * culture of awarness *and so on...* 
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+#### ✨ And I discovered JavaScript 
+> 
+
 
 #### Get to know me
 --- 
