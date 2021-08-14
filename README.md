@@ -1,5 +1,3 @@
-<img src='https://miro.medium.com/max/706/1*Zk-LFN8_AtzNqJGj0Q84Pw.png' width="600"/>
-
 ### Hi there 👋, my name is Imene.
 ####  👩🏻‍💻 I am a young creative and enthousiastic web developer.
 >I'm a french woman based in the UK. After I graduated with a BCs in computer science, I moved to the UK in order to skyrocket my carreer as a fresh and new web developer. 
@@ -15,7 +13,7 @@
 > * culture of awarness *and so on...* 
 
 #### ✨ And I discovered JavaScript 
-> 
+> I was slowly slowly making my way to find myself in this gigantic field named web development, learning a bit of Python here, a bit of web services there, data structures out there... Then I put a foot in front-end development and things were starting to get a little bit more interesting to me. I knew about HTML, CSS as I was playing around with those two languages at the age of 13, then covered a small chapter during my studies but not really diving deeper and deeper into front-enb development. To be honest, HTML and CSS for me wasn't exciting enough. As a programmer, I wanted to have genuine conversations with my computer, giving him instructions, building funny algorithm, put some spice into my code right ! And that's where I start learning ✨ **JavaScript** ✨. Nevertheless, I didn't believe in the so called *love-at-the-first-sight*, yet here I am. There's so much things to say about Javascript and I trully look forward to master this language. Let's the show go on !
 
 
 #### Get to know me
