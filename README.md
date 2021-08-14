@@ -9,11 +9,11 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 #### Get to know me
 --- 
-- 🔭 I’m currently working on my personal portfolio 
-- 🌱 I’m currently learning Javascript and React 
+- 🔭 I’m currently working on my personal portfolio 📇
+- 🌱 I’m currently learning Javascript 🟨 and React ⚛️
 - 🤔 I’m looking for help with Javascript  
 - 💬 Ask me about Anything ! 
-- ⚡ Fun fact: When I'm not coding, I create content on Tiktok, I read books 📖, I swim 🏊🏻‍♀️, I make coffee ☕️ 
+- ⚡ Fun fact: When I'm not coding... I create content on Tiktok, I read books 📖, I swim 🏊🏻‍♀️, I make coffee ☕️ and I watch anime 🍥
 
 #### Technologies I use
 ---  
