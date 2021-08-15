@@ -17,7 +17,7 @@
 <p align="justify">I was slowly slowly making my way to find myself in this gigantic field named web development, learning a bit of Python here, a bit of web services there, data structures out there... Then I put a foot in front-end development and things were starting to get a little bit more interesting to me. I knew about HTML, CSS as I was playing around with those two languages at the age of 13, then covered a small chapter during my studies but not really diving deeper and deeper into front-end development. To be honest, HTML and CSS for me wasn't exciting enough. As a programmer, I wanted to have genuine conversations with my computer, giving it instructions, building funny algorithm, put some spice into my code right ! And that's where I start learning ✨ JavaScript ✨. Nevertheless, I've never believed in the so called love-at-the-first-sight, yet here I am. There's so much things to say about Javascript and I trully look forward to master this language. Let's the show go on !</p>
 
 
-#### Get to know me
+### Get to know me
 --- 
 - 🔭 I’m currently working on my personal portfolio 📇
 - 🌱 I’m currently learning Javascript 🟨 and React ⚛️
@@ -25,7 +25,7 @@
 - 💬 Ask me about Anything ! 
 - ⚡ Fun fact: When I'm not coding... I create content on Tiktok, I read books 📖, I swim 🏊🏻‍♀️, I make coffee ☕️ and I watch anime 🍥
 
-#### Technologies I use
+### Technologies I use
 ---  
 
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='HTML' height = '30'> <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' alt='CSS' height='30'> <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='Javascript' height='30'> <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' alt='React' height='30'>
@@ -33,7 +33,7 @@
 
 
 
-#### My GitHub activity 
+### My GitHub activity 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnblm)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -41,7 +41,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/imnblm)  
 
-#### Where you can find me 
+### Where you can find me 
 ---
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imeneboualami)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/imeneboualami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/imeneblmi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/imnblmi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg' alt='tiktok' height='40'>](https://www.tiktok.com/@imn_blmi?)
 
