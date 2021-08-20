@@ -3,7 +3,7 @@
 ><p align="justify">I'm a french woman based in the UK. After I graduated with a BCs in computer science, I moved to the UK in order to skyrocket my carreer as a fresh and new web developer.</p>
 
 #### 🚶🏻‍♀️ What I'm currently doing 
-<p align="justify">During my studies, I've mostly learnt about back-end development, working with Java and Java's frameworks such as JEE, JavaFx, Swing, etc. Althought I knew I loved programming, yet I didn't feel a strong connection between me and back-end development. So I took some time to figure out what I trully love in programming. By that time, I found myself a secure job as a barista so I could reach English fluency, get to meet loads of interesting people and improve my soft skills such as : 
+<p align="justify">During my studies, I've mostly learnt about back-end development, working with Java and Java's frameworks such as JEE, JavaFx, Swing, etc. Althought I knew I loved programming, yet I didn't feel the need to explore more about web development, especially on the client-side. By that time, I found myself a secure job as a barista so I could reach English fluency, get to meet loads of interesting people and improve my soft skills such as : 
 
 >* communication
 > * accountability
@@ -14,7 +14,7 @@
 > * culture of awarness *and so on...* </p>
 
 #### ✨ And I discovered JavaScript 
-<p align="justify">I was slowly slowly making my way to find myself in this gigantic field named web development, learning a bit of Python here, a bit of web services there, data structures out there... Then I put a foot in front-end development and things were starting to get a little bit more interesting to me. I knew about HTML, CSS as I was playing around with those two languages at the age of 13, then covered a small chapter during my studies but not really diving deeper and deeper into front-end development. To be honest, HTML and CSS for me wasn't exciting enough. As a programmer, I wanted to have genuine conversations with my computer, giving it instructions, building funny algorithm, put some spice into my code right ! And that's where I start learning ✨ JavaScript ✨. Nevertheless, I've never believed in the so called love-at-the-first-sight, yet here I am. There's so much things to say about Javascript and I trully look forward to master this language. Let's the show go on !</p>
+<p align="justify">I was slowly slowly making my way to find myself in this gigantic field named web development, learning a bit of Python here, a bit of web services there, data structures out there... Then I put a foot in front-end development and things were starting to get a more and more interesting to me. I knew about HTML, CSS as I was playing around with those two languages at the age of 13, then covered a small chapter during my studies but not really diving deeper and deeper into front-end development. To be honest, HTML and CSS for me wasn't exciting enough. As a programmer, I wanted to have genuine conversations with my computer, giving it instructions, building funny algorithm, put some spice into my code right ! And that's where I start learning ✨ JavaScript ✨. Nevertheless, I've never believed in the so called love-at-the-first-sight, yet here I am. There's so much things to say about Javascript and I trully look forward to master this language. Let's the show go on !</p>
 
 
 ### Get to know me
