@@ -3,7 +3,7 @@
 ><p align="justify">I'm a french woman based in the UK. After I graduated with a BCs in computer science, I moved to the UK in order to skyrocket my carreer as a fresh and new web developer.</p>
 
 #### 🚶🏻‍♀️ What I'm currently doing 
-<p align="justify">During my studies, I've mostly learnt about back-end development, working with Java and Java's frameworks such as JavaFx, Swing, etc. Althought I knew I loved programming, yet I didn't feel a strong connection between me and back-end development. So I took some time to figure out what I trully love in programming. By that time, I found myself a secure job as a barista so I could reach English fluency, get to meet loads of interesting people and improve my soft skills such as : 
+<p align="justify">During my studies, I've mostly learnt about back-end development, working with Java and Java's frameworks such as JEE, JavaFx, Swing, etc. Althought I knew I loved programming, yet I didn't feel a strong connection between me and back-end development. So I took some time to figure out what I trully love in programming. By that time, I found myself a secure job as a barista so I could reach English fluency, get to meet loads of interesting people and improve my soft skills such as : 
 
 >* communication
 > * accountability
