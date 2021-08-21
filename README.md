@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Imene.
-####  👩🏻‍💻 I am a young creative and enthousiastic web developer.
+# I'm a junior software developer, graduated with a Computer Science degree in 2019. 
+### Java / SQL / JEE / HTML / CSS / JAVASCRIPT
+
 ><p align="justify">I'm a french woman based in the UK. After I graduated with a BCs in computer science, I moved to the UK in order to skyrocket my carreer as a fresh and new web developer.</p>
 
 #### 🚶🏻‍♀️ What I'm currently doing 
